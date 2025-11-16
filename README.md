@@ -45,15 +45,11 @@
 
 **工具教程**
 
-- 本地部署AI工作流平台有哪些
-- 运行AI大模型的工具该怎么选
-- 快速搭建AI工作流
+- [本地部署AI工作流平台有哪些](https://github.com/maoemao/my-ai-journey/blob/main/my_ai_knowledge_base/%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2AI%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%B9%B3%E5%8F%B0%E6%9C%89%E5%93%AA%E4%BA%9B.md)
+- [运行AI大模型的工具该怎么选](https://github.com/maoemao/my-ai-journey/blob/main/my_ai_knowledge_base/%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAAI%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90.md)
+- [快速搭建AI工作流工具推荐](https://github.com/maoemao/my-ai-journey/blob/main/my_ai_knowledge_base/%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAAI%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90.md)
 
 **Demo 工程**
 
 - 
-
-**周总结**
-
-- [2025-11-11 周总结](https://chatgpt.com/c/summaries/2025-11-11_weekly_summary.md)
 
